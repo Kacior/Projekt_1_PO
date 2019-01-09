@@ -1,0 +1,18 @@
+Maciej Kazalski
+Projekt - Programowanie Obiektowe
+
+Na chwilê obecn¹:
+
+ad1 Program wczytuje dane z plików.
+ad2 Na chwilê obecn¹ nie wyœwietla poprawnej metryki
+ad3 Umo¿liwia wyœwietlanie uzasadnienia orzeczenia, lecz nie o okreœlonej sygnaturze(brak wyszukiwania po sygnaturze)
+ad4 
+ad5 
+ad6 
+ad7 
+ad8 
+ad9 
+ad10 Program wyœwietla liczbê sêdziów na orzeczenie
+
+Prawdopodobnie bêdzie wymagana zmiana struktury danych w klasie judgements z ArrayList na HashMap.
+
