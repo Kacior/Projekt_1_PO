@@ -15,8 +15,8 @@ public class Judgements {
         for (int i = 0; i < cases.size(); i++) {
             months[cases.get(i).getDate().getMonth()]++;
         }
-        for (int i = 0; i < months.length; i++) {
-            System.out.print("W miesiacu: " + i + 1 + " wydano tyle orzeczen: " + months[i] + "\n");
+        for (int i = 1; i <= months.length; i++) {
+            System.out.print("W miesiacu: "+i+" wydano tyle orzeczen: " + months[i-1] + "\n");
         }
     }
 

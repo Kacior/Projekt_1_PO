@@ -33,9 +33,6 @@ public class AndJusticeForAll {
                         case "courts":
                             cases.printCourtStatistics();
                             break;
-                        case "judges":
-                            judgesList.top10judges();
-                            break;
                         case "regulations":
                             regList.top10regulations();
                             break;

@@ -7,7 +7,7 @@ ad1 Program wczytuje dane z plików.
 ad2 Na chwilê obecn¹ nie wyœwietla poprawnej metryki
 ad3 Umo¿liwia wyœwietlanie uzasadnienia orzeczenia, lecz nie o okreœlonej sygnaturze(brak wyszukiwania po sygnaturze)
 ad4 
-ad5 
+ad5
 ad6 
 ad7 
 ad8 

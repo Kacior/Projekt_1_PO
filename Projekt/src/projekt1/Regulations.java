@@ -23,7 +23,7 @@ reg.get(reg.indexOf(regulation)).assignJudgement2Regulation(judgement);
     public void top10regulations(){
         if(!sorted) sortRegulations();
         for(int i=1;i<11;i++){
-            System.out.print(i+"."+reg.get(i-1).getTitle()+reg.get(i-1).regulationSize()+" \n");
+            System.out.print(i+"."+reg.get(i-1).getTitle()+" : "+reg.get(i-1).regulationSize()+" \n");
         }
     }
 }
